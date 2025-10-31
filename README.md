@@ -26,5 +26,4 @@ This repository contains code to:
 
 
 
-   ```powershell
-   cd "C:\Users\as989\OneDrive\Desktop\MNIST Handwritten Digit Classifier"
+  
